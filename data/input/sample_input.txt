@@ -1,0 +1,11 @@
+.\bin\run-example.cmd org.apache.spark.examples.JavaWordCount CHANGES.TXT
+
+.\bin\spark-submit --master local[4] workspace\SimpleApp.py
+
+a
+
+a
+
+a
+
+b
