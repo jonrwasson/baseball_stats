@@ -2,3 +2,5 @@
 project/target/config-classes/$034209af25b163d7ecd6.cache
 *.cache
 target/*
+*.class
+*.class
